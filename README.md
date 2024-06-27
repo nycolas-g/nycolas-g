@@ -1,4 +1,9 @@
 ## Hi there 👋
+Meu nome Nycolas e sei o basico de javascript, c#, python, e pj5s,eu gosto muito do c#
+ja fiz progamaçäo em c# e estou estudando mais sobre esta area, pois gosto muito
+
+
+
 
 <!--
 **nycolas-g/nycolas-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
